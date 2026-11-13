@@ -3,7 +3,7 @@
 ---
 
 ## 👨‍💻 Web de calcetines
-* **Sitio:** https://proesspess.github.io/WEB-CALCETINES/diagramas.html
+* **Sitio:** https://proesspess.github.io/WEB-CALCETINES/
 
 ---
 
